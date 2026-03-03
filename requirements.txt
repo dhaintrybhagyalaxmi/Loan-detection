@@ -1,0 +1,15 @@
+Requirements
+
+The project uses the following libraries:
+
+Python 3.x
+
+pandas
+
+numpy
+
+scikit-learn
+
+matplotlib
+
+seaborn
